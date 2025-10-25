@@ -79,19 +79,19 @@ class SagarSharma:
 
 ### 🔍 OCR/OCV Document & Pharma Inspection System
 End-to-end OCR pipeline for pharmaceutical compliance with real-time dataset generation
-- **Tech Stack:** Python, C++, OpenCV, Tesseract, YOLO, SQLite
+- **Tech Stack:** Python, OpenCV, Tesseract, YOLO, SQLite
 - **Features:** Template matching, barcode/QR validation, error classification
 - **Impact:** Automated quality assurance with high accuracy and minimal false positives
 
 ### 💊 Computer Vision Blister Pack Inspection
 Real-time defect detection system for pharmaceutical packaging
-- **Tech Stack:** OpenCV, Custom Segmentation Algorithms, Classification Models
+- **Tech Stack:** c++, OpenCV, Custom Segmentation Algorithms, Classification Models
 - **Features:** Missing/damaged tablet detection, automated rejection system
 - **Impact:** Enhanced product quality and compliance reporting
 
 ### 📦 Track & Trace Serialization Platform
 UID generation and verification system for pharmaceutical supply chain
-- **Tech Stack:** Python, SQL, Industrial Camera Integration
+- **Tech Stack:** c++, SQL, Industrial Camera Integration
 - **Features:** Real-time monitoring, scalable architecture, printer integration
 - **Impact:** Full compliance with pharmaceutical serialization regulations
 
