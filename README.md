@@ -4,7 +4,7 @@
 
 <div align="center">
   
-### Computer Vision & Machine Learning Engineer
+### AI Powered Computer Vision & Machine Learning Engineer
 *Transforming pixels into insights, one algorithm at a time*
 
 [![Email](https://img.shields.io/badge/Email-sagarforlearning%40gmail.com-red?style=flat-square&logo=gmail)](mailto:sagarforlearning@gmail.com)
