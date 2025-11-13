@@ -128,7 +128,7 @@ Chatbot for Claims, EDI & Denial Analysis
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarsharma459&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sagarsharma459&theme=radical&hide_border=true)
+
 
 </div>
 
